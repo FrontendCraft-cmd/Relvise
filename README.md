@@ -1,2 +1,2 @@
 # Relvise
-GitHub Pages - https://nebeyi.github.io/Relvise/
+GitHub Pages - https://frontendcraft-cmd.github.io/Relvise/
